@@ -10,3 +10,10 @@ def bubble_sort(arr)
 end
 
 bubble_sort([15, 20, 3, 55, 4, 85, 9, 2, 11, 6, 14])
+
+def bubble_sort_by(arr)
+    arr.sort! {|firstI, secondI| firstI.upcase <=> secondI.upcase}
+    puts arr
+end
+
+bubble_sort_by(["Denis", "Stephen", "Eva", "Astride", "Britany"])
