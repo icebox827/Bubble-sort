@@ -12,7 +12,7 @@ end
 bubble_sort([15, 20, 3, 55, 4, 85, 9, 2, 11, 6, 14])
 
 def bubble_sort_by(arr)
-  arr.sort! { | first_i, second_i | first_i.upcase <=> second_i.upcase }
+  arr.sort! { |first_i, second_i| first_i.upcase <=> second_i.upcase }
   puts arr
 end
 
