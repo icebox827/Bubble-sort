@@ -2,8 +2,7 @@
 Microverse Ruby Module 1st Project
 
 # Bubble Sort
-It is a front-end web development project. This project is about building a website for a concert using technologies like HTML, CSS, and Bootstrap. In this project, we have a portal and two links, one is the about page and the other to book tickets for the concert.
-It's a responsive project suitable for mobile and desktop views. The purpose of this project is to create a meaningful website for the production company whose job is to create the event and also provide the possibilities for users to schedule and buy the ticket only.
+This is the first Microverse Ruby project. This project is about coding an algorithm that will be able to sort through an array and order numbers from lesser to greater or words in alphabetical order. 
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
@@ -17,11 +16,11 @@ It's a responsive project suitable for mobile and desktop views. The purpose of 
 
 ## Live Demo
 
-[Live Demo Link]( https://icebox827.github.io/concert-project-capstone/)
+[Live Demo Link]( )
 
 ## Live Video 
 
-[Live Video link](https://www.loom.com/share/2a4eefe77fa6430b8763a768146d954d)
+[Live Video link]()
 
 ## Getting Started
 
@@ -48,7 +47,7 @@ Get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/icebox827/concert-project-capstone/issues/1).
+Feel free to check the [issues page](https://github.com/icebox827/Bubble-sort/issues/2).
 
 ## Show your support
 
