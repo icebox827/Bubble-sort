@@ -6,9 +6,6 @@ This is the first Microverse Ruby project. This project is about coding an algor
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Project's Screeshot
-
-![app_screenshot.PNG]()
 
 ## Built With
 
