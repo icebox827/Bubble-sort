@@ -42,4 +42,4 @@ def bubble_sort_by(arr)
   p arr
 end
 
-p bubble_sort_by((%w[Denis Stephen Eva Astride Britany]) | left, right | left.length - right.length)
+p bubble_sort_by((%w[Denis Stephen Eva Astride Britany]) | left, right | left.length = right.length)
