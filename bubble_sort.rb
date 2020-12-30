@@ -1,10 +1,10 @@
 def bubble_sort(arr)
-  arr.length().times do
+  arr.length.times do
     arr.each_with_index do |n, i|
       if arr[i + 1]
-        if n > arr[i + 1]
+        next if n < arr[i + 1]
           arr[i], arr[i + 1] = arr[i + 1], arr[i]
-        end
+        
       end
     end
   end
@@ -16,7 +16,6 @@ puts bubble_sort(arr)
 
 def bubble_sort_by(arr)
   arr.sort! { |first_i, second_i| first_i.upcase <=> second_i.upcase }
-  return arr
 end
 
 arr = ['Denis', 'Stephen', 'Eva', 'Astride', 'Britany']
